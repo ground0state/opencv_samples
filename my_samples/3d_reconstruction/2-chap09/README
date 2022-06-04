@@ -1,0 +1,19 @@
+https://www.kspub.co.jp/book/detail/1538290.html
+からサンプルプログラムファイルをダウンロードし、画像ファイルを下記のように配置する。
+
+09-02を実行するためにはOpenCVをソースからビルドしてsfmモジュールを含むようにする必要がある。
+参考 <https://qiita.com/ground0state/items/0fa842d95b50a736604c>
+
+.
+├── 09-01.py
+├── 09-02.cpp
+├── 09-02.py
+├── 09-04-a.png
+├── 09-04-b.png
+├── 09-06-1.jpg
+├── 09-06-2.jpg
+├── 09-06-3.jpg
+├── 09-06-4.jpg
+├── 09-06-5.jpg
+├── README
+└── SBM_sample.jpg

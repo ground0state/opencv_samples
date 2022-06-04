@@ -1,0 +1,19 @@
+https://www.kspub.co.jp/book/detail/1538306.html
+からサンプルプログラムファイルをダウンロードし、画像ファイルを下記のように配置する。
+
+thum.pngは04-06.wmvの任意の1フレームを画像化する。
+
+.
+├── 04-02-a.jpg
+├── 04-02-b.jpg
+├── 04-06.wmv
+├── README
+├── camshift.py
+├── color_judge.py
+├── kalmanfilter.py
+├── meanshift.py
+├── particlefilter.py
+├── particlefilter2.py
+├── particlefilter3.py
+├── template_matching.py
+└── thum.png

@@ -1,0 +1,20 @@
+https://www.kspub.co.jp/book/detail/1538306.html
+からサンプルプログラムファイルをダウンロードし、画像ファイルを下記のように配置する。
+
+.
+├── 02-02-a.jpg
+├── 02-02-b.jpg
+├── 05-06-a.jpg
+├── 05-06-b.jpg
+├── 05-08-a.jpg
+├── 05-08-b.jpg
+├── 05-08-c.jpg
+├── 05-08-d.jpg
+├── 05-08-e.jpg
+├── 05-08-f.jpg
+├── README
+├── akaze.py
+├── orb.py
+├── registration.py
+├── sift_surf.py
+└── sticher.py

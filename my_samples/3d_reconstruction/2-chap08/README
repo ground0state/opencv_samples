@@ -1,0 +1,17 @@
+https://www.kspub.co.jp/book/detail/1538306.html
+からサンプルプログラムファイルをダウンロードし、画像ファイルとxmlファイルを下記のように配置する。
+
+.
+├── 08-01.py
+├── 08-02.py
+├── 08-04.py
+├── README
+├── calib_img1.jpg
+├── calib_img2.jpg
+├── calib_img3.jpg
+├── calib_img4.jpg
+├── calib_img5.jpg
+├── calibbox.jpg
+├── cam_param.xml
+├── regist5-1.jpg
+└── regist5-2.jpg

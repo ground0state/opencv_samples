@@ -1,0 +1,18 @@
+https://www.kspub.co.jp/book/detail/1538290.html
+からサンプルプログラムファイルをダウンロードし、画像ファイルを下記のように配置する。
+
+.
+├── 11-3-2.py
+├── 11-3-4.py
+├── 11-3-5.py
+├── 11-3-7.py
+├── README
+├── dst.png
+├── dst1.png
+├── dst2.png
+├── dst3.png
+├── dst4.png
+├── dst5.png
+├── src_depth_ball.png
+├── src_depth_hand.png
+└── src_depth_wall.png
